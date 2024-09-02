@@ -30,7 +30,7 @@ The objective of this homework is to classify EEG data into two mental states: p
 
 ---
 
-### HW2 BIG
+### HW1 BIG
 
 #### **Overview**
 The homework focuses on classifying emails as spam or not spam using the Spambase dataset. The dataset consists of 4,601 email samples with 57 numerical features that include word frequencies, character frequencies, and capital letter statistics. The tasks involve evaluating different classifiers, optimizing their performance, and analyzing the results.
